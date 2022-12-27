@@ -7,8 +7,8 @@
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/rodsalmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodsalmeida&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodsalmeida&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=rodsalmeida&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodsalmeida&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
